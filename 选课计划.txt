@@ -1,0 +1,31 @@
+SS
+基础
+Sensoren	化学知识多							2+0 3
+必修
+Navigationssysteme für den Straßen- und Schienenverkehr	2+0 3
+Labor Regelungstechnik							0+4 6
+选修
+Bildverarbeitung								2   3
+Hardware Modeling and Simulation	推荐				2+1 4
+Nichtlineare Regelungssysteme						2   3
+Numerische Methoden für partielle Differentialgleichungen	2+1 4	日本老师推荐
+Optimale Regelung und Schätzung	比日语老师难			2   3
+Physical and Databased Modelling	滑轮电路拷打但口试友好	2+1 6
+Praktikum System-on-Chip						4 6 4 6
+Steuerungstechnik			均分2.37				2   4
+Stromrichtersteuerungstechnik						2   3
+
+WS
+基础
+Messtechnik								2+1 5
+Optimization of Dynamic Systems	很难			2+1 5
+必修
+Informationsfusion						3+0 4
+Methoden der Signalverarbeitung				3+1 6
+Regelung linearer Mehrgrößensysteme		很难		3+1 6
+Systems and Software Engineering	过不难高分难		2+1 5	英语十几张卷子双面小抄建议别考
+选修
+Hardware/Software Codesign	推荐				2+1 4
+Praktikum System-on-Chip					4 6 4 6
+Verifizierte numerische Methoden	日本老师推荐		2+1 4
+Werkzeugmaschinen und Handhabungstechnik			4+2 9
